@@ -2,7 +2,7 @@ Android Studio
 	Gradle
 GoogleMaps
 Trundle
-Rocio del Rosario Ramo Ramirez
+RRRR
 Estar vivo
 .net
 AJAX
